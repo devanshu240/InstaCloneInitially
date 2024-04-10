@@ -1,0 +1,26 @@
+.signIn{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/338/727/578/technology-instagram-social-media-hd-wallpaper-preview.jpg");
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm{
+    background-color: #ffffff7c;
+    border: 1px solid black (129,121,121);
+    padding:30px;
+    margin-top:5px;
+    border-radius:1px;
+}
+#login-btn{
+    background-color: #1773EA;
+    border:none;
+    border-radius: 3px;
+    color:white;
+    font-weight: bold;
+    padding:5px 10px;
+    width:80%;
+    cursor:pointer;
+    margin-top: 8px;
+}
